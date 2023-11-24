@@ -1,10 +1,6 @@
 - 👋 Hi, I’m @14harshaldhote
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-# Harshal Dhote
+- 👀 I’m interested in AI Tech. & Web Based Projects
+- 🌱 I’m currently learning React js
 
 ## About Me
 
@@ -30,21 +26,16 @@
 
 ## Skills
 
-- **Programming Languages:** C/C++, Python, Java
+- **Programming Languages:** C/C++, Python, Java, SQL, MongoDB
 - **Data Visualization:** Tableau
 - **Containerization:** Docker
-- **Mobile App Development:** React Native
-- **Web Development:** JavaScript
+- **Web Development:** JavaScript, React Js, Bootstrap, HTML, CSS
 - **Data Science:** Jupyter Notebook & Lab
 
 ## How to Reach Me
 
 Feel free to reach out to me via email or phone for any collaboration or discussion. I'm open to connecting with fellow developers and exploring new opportunities.
 
-## Projects
-
-- [Project 1](#) - Brief description of Project 1.
-- [Project 2](#) - Brief description of Project 2.
 
 ## Collaborations
 
