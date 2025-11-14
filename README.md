@@ -5,7 +5,7 @@
   Harshal Dhote
 </h1>
 
-<p><em>Backend & Systems Engineer | Secure Software Development | Architecture-Driven Engineering</em></p>
+<p><em>Software Engineer | System Architecture</em></p>
 
 <a href="mailto:dhoteharshal16@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact-0078D4?style=for-the-badge&logo=gmail&logoColor=white" />
