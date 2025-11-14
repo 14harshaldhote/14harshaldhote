@@ -5,7 +5,7 @@
   Harshal Dhote
 </h1>
 
-<p><em>Full-Stack Engineer | Software Architecture | Secure Systems Engineering</em></p>
+<p><em>Backend & Systems Engineer | Secure Software Development | Architecture-Driven Engineering</em></p>
 
 <a href="mailto:dhoteharshal16@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact-0078D4?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -23,44 +23,44 @@
 
 ## About Me
 
-I am a full-stack engineer specializing in designing and implementing **secure, scalable, and modular software systems**.  
-My engineering philosophy emphasizes:
+I am a backend and systems engineer with a strong focus on **secure application design**, **architecture development**, and **high-performance backend engineering**.  
+My work centers around building platforms that are:
 
-- Clean, maintainable architecture  
-- Data security and privacy-oriented development  
-- Modular design for performance and long-term sustainability  
-- Intelligent automation and high-accuracy data processing  
-- Building systems that scale with real organizational workflows  
+- security-hardened  
+- scalable under real production workloads  
+- modular and maintainable  
+- automation-driven  
+- privacy-compliant  
 
-I work extensively across backend, frontend, DevOps, and systems engineering layers to create robust digital platforms that support complex organizational needs.
+I work across backend services, workflow engines, infrastructure components, and intelligent data pipelines to deliver systems that organizations rely on for daily operations.
 
 ---
 
-## What I Do
+## What I Work On
 
-### Software Architecture & Engineering
-- Design modular, high-performance web architectures
-- Convert monolithic systems into scalable multi-service platforms
-- Implement enterprise-grade workflows with role-based structures
+### Architecture & System Design
+- Design modular backend architectures for complex business workflows  
+- Break down monolithic systems into structured, scalable components  
+- Build permission-driven platforms supporting multi-role structures  
 
-### Secure Backend Engineering
-- Build high-integrity APIs with Spring Boot, Django, and Flask  
-- Enforce strong authentication using JWT, encrypted sessions, and RBAC  
-- Apply privacy-first patterns including CSRF protection, sanitization, and permission-driven access
+### Secure Backend Development
+- Develop robust APIs using Spring Boot, Django, and Flask  
+- Implement JWT authentication, encrypted sessions, and RBAC  
+- Apply privacy-first design with CSRF protection, sanitization, and strict access layers  
 
-### Process Automation & Intelligent Systems
-- Develop OCR-powered data pipelines using OpenCV and Tesseract  
-- Handle large-scale data processing with Celery, Redis, and asynchronous workers  
-- Build accuracy-focused automated extraction and validation systems  
+### Data Automation & Intelligent Processing
+- Build OCR and computer vision pipelines using OpenCV and Tesseract  
+- Design high-throughput document processing systems  
+- Use Celery, Redis, and async workers to handle large operations with stability  
 
-### Frontend Engineering
-- Create fast, modular interfaces using React (Vite), Redux, and reusable component architecture  
-- Optimize UI performance with reduced re-renders and clean state management  
+### Interface & Frontend Logic
+- Develop fast, modular interfaces using React (Vite) and Redux  
+- Focus on performance optimization and clean state management  
 
-### DevOps & Cloud Engineering
+### Platform Engineering & DevOps
 - Containerize services using Docker for reproducible deployments  
-- Work with cloud-native stacks such as Kubernetes and AWS  
-- Optimize databases using SQL indexing, caching, and transactional integrity principles  
+- Work with cloud-native tools such as Kubernetes and AWS  
+- Optimize SQL and caching layers for maximum system throughput  
 
 ---
 
@@ -96,12 +96,12 @@ I work extensively across backend, frontend, DevOps, and systems engineering lay
 
 ## Engineering Focus Areas
 
-- Secure application architecture  
-- High-throughput backend systems  
-- Multi-role enterprise workflow platforms  
-- Scalable containerized environments  
-- Automated data extraction and validation  
-- Privacy-first and compliance-aligned development practices  
+- Backend engineering and secure API development  
+- Workflow-driven platform design  
+- High-volume data and document processing  
+- Containerized and cloud-native backend systems  
+- Role-based and compliance-driven application logic  
+- Performance optimization and scalable database design  
 
 ---
 
@@ -116,7 +116,7 @@ I work extensively across backend, frontend, DevOps, and systems engineering lay
 ---
 
 <div align="center">
-  <strong>Building systems that are scalable, secure, and engineered for the future.</strong>
+  <strong>Engineering systems that are secure, scalable, and built on strong architectural principles.</strong>
   <br /><br />
   <img src="https://komarev.com/ghpvc/?username=14harshaldhote&color=blue&style=for-the-badge" />
 </div>
