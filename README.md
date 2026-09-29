@@ -102,17 +102,6 @@ I work across backend services, workflow engines, infrastructure components, and
 - Containerized and cloud-native backend systems  
 - Role-based and compliance-driven application logic  
 - Performance optimization and scalable database design  
-
----
-
-## Education
-
-| Degree | Institution | Result |
-|--------|-------------|--------|
-| PG Diploma in Advanced Computing | CDAC Pune | A Grade |
-| B.Tech in Computer Science | GH Raisoni College of Engineering | 81.3% |
-| Diploma in Computer Technology | Datta Meghe Polytechnic | 77.8% |
-
 ---
 
 <div align="center">
